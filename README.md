@@ -1,2 +1,3 @@
 # AI_Medicine_Reminder_app
 AI-Based Medicine Reminder System is a machine learning project that helps users manage their medication schedules efficiently. The system predicts medicine intake patterns using ML models and sends timely reminders through a simple interface. It improves medication adherence and reduces the risk of missed doses using intelligent automation.
+Live Link:https://aimedicinereminderapp-uesurapxgzkot24tsmb4i8.streamlit.app/
